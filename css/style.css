@@ -160,6 +160,21 @@ h2{
     background-position: 50%;
     background-size: 100%;
 }
+.bt-7{
+    background-color:var(--color-primary)!important;
+    border: 1px solid var(--color-primary);
+    min-width: 72px;
+    height: 36px;
+    line-height: 1.2;
+    cursor: pointer;
+    padding: 8px 42px!important;
+    border-radius: 8px!important;
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 14px!important;
+    font-weight: 700!important;
+}
+
 .banner-image{
     width: 400px;
     margin-bottom: -56px;
@@ -699,6 +714,7 @@ a{
 .bt-4{
     background: #e5dfdf!important;
     border: grey!important;
+    width: 250px;
 }
 .inner-container-it{
     position: relative;
